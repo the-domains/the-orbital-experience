@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Orbital Experience]]></title>
         <description><![CDATA[The Orbital Experience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://theorbitalexperience.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 18:46:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 19:12:57 GMT</lastBuildDate>
+        <atom:link href="http://theorbitalexperience.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Orbital Experience</p>]]></description>
-            <link>undefinedec42b6ee-59e4-4b1e-ab70-3892ba231ea3/index.html</link>
+            <link>http://theorbitalexperience.com/ec42b6ee-59e4-4b1e-ab70-3892ba231ea3/index.html</link>
             <guid isPermaLink="false">ec42b6ee-59e4-4b1e-ab70-3892ba231ea3</guid>
-            <pubDate>Mon, 11 Jan 2016 18:46:04 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 19:12:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
