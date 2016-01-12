@@ -1,28 +1,40 @@
-name: The Orbital Experience
-favicon: null
-layout_spectrum: 0.20369419967755675
-typography_spectrum: 0.19999092468060553
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2036941996775568
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.316433169413358
+  brandStrength: 0.3222089179325849
+  rhythmicContrast: 0.1654756371863186
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3222089179325849
   lightness: 0.7002324936911464
-  saturation: 0.316433169413358
-  rhythmicContrast: 0.16547563718631864
 purpose: []
+favicon: null
+name: The Orbital Experience
+typography_spectrum: 0.1999909246806055
